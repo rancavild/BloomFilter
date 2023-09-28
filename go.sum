@@ -1,0 +1,7 @@
+github.com/datadog/mmh3 v0.0.0-20210722141835-012dc69a9e49 h1:9ppqviquwkVpmVM19utHENs1+Ugp4odEBUbFsqP2f/M=
+github.com/datadog/mmh3 v0.0.0-20210722141835-012dc69a9e49/go.mod h1:NoK5OFSzgNJ9DLcHQ3hhbZKeJZioh9B8G59FOAlytYU=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
+github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
